@@ -1,0 +1,15 @@
+# Base dependencies shared across modules
+transformers>=4.38
+accelerate>=0.28
+peft>=0.9
+bitsandbytes>=0.42
+sentencepiece>=0.2
+datasets>=2.17
+torch>=2.2
+chromadb>=0.4
+langchain>=0.1
+langsmith>=0.1
+jupyterlab>=4.1
+scikit-learn>=1.4
+numpy>=1.26
+pandas>=2.2
